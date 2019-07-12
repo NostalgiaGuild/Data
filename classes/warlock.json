@@ -1,0 +1,37 @@
+{
+  "video_guides": [
+    {
+      "url": "https://www.youtube.com/watch?v=zyLGKxlSsns",
+      "ytVideo": "zyLGKxlSsns",
+      "title": "Classic WoW: Warlock Levelling Guide [Kargoz]",
+      "author": "Kargoz"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uc3advdw5RI",
+      "ytVideo": "uc3advdw5RI",
+      "title": "Classic WoW Warlock Leveling Guide [Staysafe TV]",
+      "author": "Staysafe TV"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6PZFUpzpRE8",
+      "ytVideo": "6PZFUpzpRE8",
+      "title": "Classic Vanilla WoW Warlock Deep-Dive with Alive | Classic WoW Warlock Guide [Tips Out]",
+      "author": "Tips Out"
+    }
+  ],
+  "addons": [
+    {
+      "key": "title",
+      "title": "WeakAuras 2",
+      "image": "https://media.forgecdn.net/attachments/109/845/Avatar.png",
+      "url": "https://www.curseforge.com/wow/addons/weakauras-2"
+    }
+  ],
+  "links": [
+    {
+      "key": "name",
+      "name": "Warlock Classic Discord",
+      "url": "https://discord.gg/D6TrRkq"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "video_guides": [
+    {
+      "key": "ytVideo",
+      "url": "https://www.youtube.com/watch?v=gKx3qqbdMfY",
+      "ytVideo": "gKx3qqbdMfY",
+      "title": "Classic WoW: Hunter Leveling Guide [Kargoz]"
+    },
+    {
+      "key": "ytVideo",
+      "url": "https://www.youtube.com/watch?v=tOcqrIfi0qI",
+      "ytVideo": "tOcqrIfi0qI",
+      "title": "Classic WoW: 60 Hunter PvE Field Manual (Pets, Rotation, Talents, BiS Gear, Stat Weights, etc!) [Kargoz]"
+    }
+  ],
+  "addons": [
+    {
+      "key": "title",
+      "image": "https://media.forgecdn.net/attachments/254/82/curseimage.png",
+      "title": "WeaponSwingTimer",
+      "url": "https://www.curseforge.com/wow/addons/weaponswingtimer"
+    },
+    {
+      "key": "title",
+      "title": "WeakAuras 2",
+      "image": "https://media.forgecdn.net/attachments/109/845/Avatar.png",
+      "url": "https://www.curseforge.com/wow/addons/weakauras-2"
+    }
+  ],
+  "links": [
+    {
+      "key": "name",
+      "name": "Hunter Classic Discord",
+      "url": "https://discord.gg/n8364tU"
+    }
+  ]
+}

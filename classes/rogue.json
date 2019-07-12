@@ -1,0 +1,30 @@
+{
+  "video_guides": [
+    {
+      "url": "https://www.youtube.com/watch?v=AkawrueQYXU",
+      "ytVideo": "AkawrueQYXU",
+      "title": "Classic WoW: Rogue Leveling Guide [Kargoz]"
+    }
+  ],
+  "addons": [
+    {
+      "key": "title",
+      "image": "https://media.forgecdn.net/attachments/254/82/curseimage.png",
+      "title": "WeaponSwingTimer",
+      "url": "https://www.curseforge.com/wow/addons/weaponswingtimer"
+    },
+    {
+      "key": "title",
+      "title": "WeakAuras 2",
+      "image": "https://media.forgecdn.net/attachments/109/845/Avatar.png",
+      "url": "https://www.curseforge.com/wow/addons/weakauras-2"
+    }
+  ],
+  "links": [
+    {
+      "key": "name",
+      "name": "Rogue Classic Discord",
+      "url": "https://discord.gg/mkfKCBB"
+    }
+  ]
+}

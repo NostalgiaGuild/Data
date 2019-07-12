@@ -1,0 +1,25 @@
+{
+  "video_guides": [
+    {
+      "key": "ytVideo",
+      "url": "https://www.youtube.com/watch?v=UNHSOBkCYBk",
+      "ytVideo": "UNHSOBkCYBk",
+      "title": "Classic WoW: Druid Leveling Guide [Kargoz]"
+    }
+  ],
+  "links": [
+    {
+      "key": "name",
+      "name": "Druid Classic Discord",
+      "url": "https://discord.gg/uscwdeP"
+    }
+  ],
+  "addons": [
+    {
+      "key": "title",
+      "title": "WeakAuras 2",
+      "image": "https://media.forgecdn.net/attachments/109/845/Avatar.png",
+      "url": "https://www.curseforge.com/wow/addons/weakauras-2"
+    }
+  ]
+}

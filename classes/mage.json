@@ -1,0 +1,24 @@
+{
+  "video_guides": [
+    {
+      "url": "https://www.youtube.com/watch?v=Wi-7oKvOM4c",
+      "ytVideo": "Wi-7oKvOM4c",
+      "title": "Classic WoW: Mage Leveling Guide [Kargoz]"
+    }
+  ],
+  "addons": [
+    {
+      "key": "title",
+      "title": "WeakAuras 2",
+      "image": "https://media.forgecdn.net/attachments/109/845/Avatar.png",
+      "url": "https://www.curseforge.com/wow/addons/weakauras-2"
+    }
+  ],
+  "links": [
+    {
+      "key": "name",
+      "name": "Mage Classic Discord",
+      "url": "https://discord.gg/tEdQhsH"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "video_guides": [
+    {
+      "url": "https://www.youtube.com/watch?v=gtxX1WQILnM",
+      "ytVideo": "gtxX1WQILnM",
+      "title": "Classic WoW: Warrior Levelling Guide 2.0 [Kargoz]"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=faV-uY7ZYrE",
+      "ytVideo": "faV-uY7ZYrE",
+      "title": "Classic Vanilla WoW PROTECTION Warrior Deep-Dive with Skarm | Classic WoW Prot Warrior Guide [Tips Out]",
+      "author": "Tips Out"
+    }
+  ],
+  "addons": [
+    {
+      "key": "title",
+      "image": "https://media.forgecdn.net/attachments/254/82/curseimage.png",
+      "title": "WeaponSwingTimer",
+      "url": "https://www.curseforge.com/wow/addons/weaponswingtimer"
+    },
+    {
+      "key": "title",
+      "title": "WeakAuras 2",
+      "image": "https://media.forgecdn.net/attachments/109/845/Avatar.png",
+      "url": "https://www.curseforge.com/wow/addons/weakauras-2"
+    }
+  ],
+  "links": [
+    {
+      "key": "name",
+      "name": "Warrior Classic Discord",
+      "url": "https://discord.gg/bMktPfH"
+    }
+  ]
+}
