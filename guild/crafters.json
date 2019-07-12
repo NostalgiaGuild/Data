@@ -1,0 +1,30 @@
+{
+  "alchemy": [],
+  "blacksmithing": [],
+  "cooking": [
+    {
+      "character": "Snipeheal",
+      "cssClass": "wow-priest",
+      "skill": 0
+    }
+  ],
+  "enchanting": [
+    {
+      "name": "Snipeheal",
+      "cssClass": "wow-priest",
+      "skill": 0
+    }
+  ],
+  "engineering": [],
+  "herbalism": [],
+  "leatherworking": [],
+  "mining": [],
+  "skinning": [],
+  "tailoring": [
+    {
+      "character": "Snipeheal",
+      "cssClass": "wow-priest",
+      "skill": 0
+    }
+  ]
+}
