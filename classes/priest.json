@@ -20,5 +20,14 @@
       "name": "Priest Classic Discord",
       "url": "https://discord.gg/exJacWb"
     }
+  ],
+  "noteworthy_items": [
+    {
+      "itemId": "14154",
+      "slug": "truefaith-vestments",
+      "name": "Truefaith Vestments",
+      "source": "profession",
+      "profession": "Tailoring"
+    }
   ]
 }
