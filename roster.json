@@ -4,13 +4,15 @@
       "name": "Snipeheal",
       "level": 1,
       "race": "Troll",
-      "class": "Priest"
+      "class": "Priest",
+      "main": true
     },
     {
       "name": "Manabiscuitz",
       "level": 1,
       "race": "Unknown",
-      "class": "Mage"
+      "class": "Mage",
+      "main": true
     }
   ]
 }
