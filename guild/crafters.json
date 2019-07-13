@@ -10,7 +10,7 @@
   ],
   "enchanting": [
     {
-      "name": "Snipeheal",
+      "character": "Snipeheal",
       "cssClass": "wow-priest",
       "skill": 0
     }
