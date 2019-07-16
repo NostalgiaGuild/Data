@@ -61,6 +61,32 @@
           "quality": "uncommon"
         }
       ]
+    },
+    "25081": {
+      "name": "Enchant Cloak - Greater Fire Resistance",
+      "crafters": [],
+      "notes": "Cenarion Circle: Friendly",
+      "level": 300,
+      "reagents": [
+        {
+          "id": 20725,
+          "name": "Nexus Crystal",
+          "quantity": 4,
+          "quality": "epic"
+        },
+        {
+          "id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 8,
+          "quality": "rare"
+        },
+        {
+          "id": 7078,
+          "name": "Essence of Fire",
+          "quantity": 4,
+          "quality": "uncommon"
+        }
+      ]
     }
   }
 }
