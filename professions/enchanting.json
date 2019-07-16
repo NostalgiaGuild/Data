@@ -4,30 +4,61 @@
       "name": "Enchant Weapon - Healing Power",
       "crafters": []
     },
-    "23802": {
-      "name": "Enchant Bracer - Healing Power",
+    "23801": {
+      "name": "Enchant Bracer - Mana Regeneration",
       "crafters": [],
-      "notes": "Argent Dawn: Revered, Enchanting: 300",
+      "level": 290,
+      "notes": "Argent Dawn: Honored",
       "reagents": [
-        {
-          "id": 14344,
-          "name": "Large Brilliant Shard",
-          "quantity": 2
-        },
         {
           "id": 16204,
           "name": "Illusion Dust",
-          "quantity": 20
+          "quantity": 16,
+          "quality": "common"
         },
         {
           "id": 16203,
           "name": "Greater Eternal Essence",
-          "quantity": 4
+          "quantity": 4,
+          "quality": "uncommon"
+        },
+        {
+          "id": 7080,
+          "name": "Essence of Water",
+          "quantity": 2,
+          "quality": "uncommon"
+        }
+      ]
+    },
+    "23802": {
+      "name": "Enchant Bracer - Healing Power",
+      "crafters": [],
+      "notes": "Argent Dawn: Revered",
+      "level": 300,
+      "reagents": [
+        {
+          "id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 2,
+          "quality": "rare"
+        },
+        {
+          "id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 20,
+          "quality": "common"
+        },
+        {
+          "id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 4,
+          "quality": "uncommon"
         },
         {
           "id": 12803,
           "name": "Living Essence",
-          "quantity": 6
+          "quantity": 6,
+          "quality": "uncommon"
         }
       ]
     }
