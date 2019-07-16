@@ -1,7 +1,35 @@
 {
   "recipes": {
     "22750": {
-      "name": "Enchant Weapon - Healing Power"
+      "name": "Enchant Weapon - Healing Power",
+      "crafters": []
+    },
+    "23802": {
+      "name": "Enchant Bracer - Healing Power",
+      "crafters": [],
+      "notes": "Argent Dawn: Revered, Enchanting: 300",
+      "reagents": [
+        {
+          "id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 2
+        },
+        {
+          "id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 20
+        },
+        {
+          "id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 4
+        },
+        {
+          "id": 12803,
+          "name": "Living Essence",
+          "quantity": 6
+        }
+      ]
     }
   }
 }
