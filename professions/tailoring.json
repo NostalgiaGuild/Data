@@ -1,0 +1,31 @@
+{
+  "recipes": {
+    "23801": {
+      "name": "Mooncloth Bag",
+      "itemID": 14155,
+      "crafters": [],
+      "level": 300,
+      "notes": "World Drop Pattern",
+      "reagents": [
+        {
+          "id": 14048,
+          "name": "Bolt of Runecloth",
+          "quantity": 4,
+          "quality": "common"
+        },
+        {
+          "id": 14342,
+          "name": "Mooncloth",
+          "quantity": 1,
+          "quality": "common"
+        },
+        {
+          "id": 14341,
+          "name": "Rune Thread",
+          "quantity": 1,
+          "quality": "common"
+        }
+      ]
+    }
+  }
+}
