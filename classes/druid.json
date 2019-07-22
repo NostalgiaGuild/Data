@@ -14,6 +14,16 @@
       "url": "https://discord.gg/uscwdeP"
     }
   ],
+  "macros": [
+    {
+      "title": "Target Res Announcer",
+      "cdn-icon-url": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_reincarnation.jpg",
+      "macro": [
+        "/say Resurrecting %t",
+        "/cast Rebirth"
+      ]
+    }
+  ],
   "addons": [
     {
       "key": "title",

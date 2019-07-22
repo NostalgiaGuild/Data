@@ -23,7 +23,8 @@
   ],
   "macros": [
     {
-      "title": "Res Announcer",
+      "title": "Target Res Announcer",
+      "cdn-icon-url": "https://wow.zamimg.com/images/wow/icons/large/spell_holy_resurrection.jpg",
       "macro": [
         "/say Resurrecting %t",
         "/cast Resurrection"
