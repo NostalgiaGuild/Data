@@ -6,12 +6,28 @@
       "title": "Classic WoW: Priest Leveling Guide [Kargoz]"
     }
   ],
+  "guides": [
+    {
+      "url": "https://classic.wowhead.com/news=293952/advanced-classic-priest-dps-guide-by-rokman",
+      "external": true,
+      "title": "Advanced Classic Priest DPS Guide by Rokman"
+    }
+  ],
   "addons": [
     {
       "key": "title",
       "title": "WeakAuras 2",
       "image": "https://media.forgecdn.net/attachments/109/845/Avatar.png",
       "url": "https://www.curseforge.com/wow/addons/weakauras-2"
+    }
+  ],
+  "macros": [
+    {
+      "title": "Res Announcer",
+      "macro": [
+        "/say Resurrecting %t",
+        "/cast Resurrection"
+      ]
     }
   ],
   "links": [
