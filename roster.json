@@ -5,7 +5,11 @@
       "level": 1,
       "race": "Troll",
       "class": "Priest",
-      "main": true
+      "main": true,
+      "profession_1": "Tailoring",
+      "profession_1_level": 1,
+      "profession_2": "Enchanting",
+      "profession_2_level": 1
     },
     {
       "name": "Manabiscuitz",
