@@ -3,13 +3,20 @@
     {
       "url": "https://www.youtube.com/watch?v=gtxX1WQILnM",
       "ytVideo": "gtxX1WQILnM",
-      "title": "Classic WoW: Warrior Levelling Guide 2.0 [Kargoz]"
+      "title": "Classic WoW: Warrior Levelling Guide 2.0 [Kargoz]",
+      "author": "Kargoz"
     },
     {
       "url": "https://www.youtube.com/watch?v=faV-uY7ZYrE",
       "ytVideo": "faV-uY7ZYrE",
       "title": "Classic Vanilla WoW PROTECTION Warrior Deep-Dive with Skarm | Classic WoW Prot Warrior Guide [Tips Out]",
       "author": "Tips Out"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v9IG3L0eLjA",
+      "ytVideo": "v9IG3L0eLjA",
+      "title": "Classic WoW: Warrior Macro Basics | Leveling | PvP",
+      "author": "Atacas"
     }
   ],
   "addons": [
