@@ -39,5 +39,15 @@
       "title": "Warrior Classic Discord",
       "url": "https://discord.gg/bMktPfH"
     }
+  ],
+  "noteworthy_items": [
+    {
+      "itemId": "12640",
+      "rarity": "epic",
+      "slug": "lionheart-helm",
+      "name": "Lionheart Helm",
+      "source": "profession",
+      "profession": "Blacksmithing"
+    }
   ]
 }
