@@ -26,6 +26,13 @@
       "ytVideo": "Y4jAL13omQo",
       "url": "https://www.youtube.com/watch?v=Y4jAL13omQo",
       "tags": ["tips"]
+    },
+    {
+      "name": "",
+      "type": "youtube",
+      "ytVideo": "d2Q-CmQH4Hg",
+      "url": "https://www.youtube.com/watch?v=d2Q-CmQH4Hg",
+      "tags": ["tips", "healer", "classes"]
     }
   ]
 }
