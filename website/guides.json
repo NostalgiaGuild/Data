@@ -2,21 +2,24 @@
   "guides": [
     {
       "name": "Macros - What Every Player Needs to Know",
-      "external": true,
+      "type": "forum",
       "url": "https://us.battle.net/forums/en/wow/topic/16200990425"
     },
     {
       "name": "10 Handy Tips & Tricks for Classic WoW [MadSeasonShow]",
+      "type": "youtube",
       "ytVideo": "yoKdkAXp0uk",
       "url": "https://www.youtube.com/watch?v=yoKdkAXp0uk"
     },
     {
       "name": "Classic WoW: Best-in-Slot gear, ALL classes & ALL phases! [Skarm Tank]",
+      "type": "youtube",
       "ytVideo": "nxZOOXLuGdo",
       "url": "https://www.youtube.com/watch?v=nxZOOXLuGdo"
     },
     {
       "name": "Classic WoW Beginner's Guide (Classes, Leveling, Professions, Etc.) [Platinum WoW]",
+      "type": "youtube",
       "ytVideo": "Y4jAL13omQo",
       "url": "https://www.youtube.com/watch?v=Y4jAL13omQo"
     }
