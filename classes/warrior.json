@@ -48,6 +48,14 @@
       "name": "Lionheart Helm",
       "source": "profession",
       "profession": "Blacksmithing"
+    },
+    {
+      "itemId": "12640",
+      "rarity": "legendary",
+      "slug": "thunderfury-blessed-blade-of-the-windseeker",
+      "name": "Thunderfury, Blessed Blade of the Windseeker",
+      "source": "quest",
+      "quest": "Rise, Thunderfury!"
     }
   ]
 }
